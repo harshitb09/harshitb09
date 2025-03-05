@@ -1,12 +1,4 @@
 
-# GitHub Profile Customization
-
-You can enhance your GitHub profile by creating a `README.md` in your GitHub profile repository (`username/username`).
-
-Here's a polished and professional GitHub Profile README markdown to showcase your skills, experiences, and projects clearly:
-
----
-
 ## 👋 Hi, I'm Harshit Arvind Barde!
 
 ### 📫 Connect with me:
@@ -38,7 +30,7 @@ I'm a passionate Data Analyst and Data Engineer with expertise in building scala
 #### 📌 **Software Engineer, University of Michigan (Patent Project)**
 - Designed and deployed innovative data solutions on BigQuery and Dataflow, achieving real-time recognition with extremely low latency.
 
-#### 📌 **Software Engineer, XYZ (2022)**
+#### 📌 **Software Engineer, TietoEvry India Pvt Ltd (2022)**
 - Created efficient ETL pipelines for terabyte-scale data.
 - Developed insightful dashboards using Power BI and DAX.
 - Engineered microservices using Java Spring Boot.
