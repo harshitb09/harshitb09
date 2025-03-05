@@ -64,7 +64,6 @@ I'm a passionate Data Analyst and Data Engineer with expertise in building scala
 
 ---
 
-You can copy this markdown text into your GitHub profile README (`README.md` in your GitHub username repository) to create a polished and professional profile.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/harshitarvindbarde/">
@@ -81,11 +80,6 @@ You can copy this markdown text into your GitHub profile README (`README.md` in 
 
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77A20&width=435&lines=Software+Engineer;AI+%7C+Data+%7C+Cloud+Enthusiast;Building+Scalable+Tech)](https://git.io/typing-svg)
 
