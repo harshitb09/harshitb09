@@ -80,4 +80,8 @@ You can copy this markdown text into your GitHub profile README (`README.md` in 
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77A20&width=435&lines=Software+Engineer;AI+%7C+Data+%7C+Cloud+Enthusiast;Building+Scalable+Tech)](https://git.io/typing-svg)
+
+
 > "In the era of AI, it's not just about coding – it's about creating intelligence that enhances human potential." 🤖✨
