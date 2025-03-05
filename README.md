@@ -81,7 +81,6 @@ I'm a passionate Data Analyst and Data Engineer with expertise in building scala
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77A20&width=435&lines=Software+Engineer;AI+%7C+Data+%7C+Cloud+Enthusiast;Building+Scalable+Tech)](https://git.io/typing-svg)
 
 
 > "In the era of AI, it's not just about coding – it's about creating intelligence that enhances human potential." 🤖✨
