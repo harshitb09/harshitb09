@@ -3,7 +3,7 @@
 
 ### 📫 Connect with me:
 - **Email**: [bardeharshit09@gmail.com](mailto:bardeharshit09@gmail.com)
-- **LinkedIn**: [Harshit Barde](#)
+- **LinkedIn**: [Harshit Barde](https://www.linkedin.com/in/harshitarvindbarde/)
 
 ---
 
