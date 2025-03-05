@@ -7,13 +7,6 @@
 - **LinkedIn**: [Harshit Barde](https://www.linkedin.com/in/harshitarvindbarde/)
 
 ---
-### ⚡ GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshitarvindbarde&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitarvindbarde&theme=radical" alt="GitHub Streak" />
-</p>
-
-
 
 ## 🚀 About Me
 I'm a passionate Data Analyst and Data Engineer with expertise in building scalable data solutions, designing ETL pipelines, and creating impactful visualizations. Proficient in Python, SQL, and cloud technologies like GCP and AWS. 
