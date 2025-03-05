@@ -7,10 +7,7 @@
 - **LinkedIn**: [Harshit Barde](https://www.linkedin.com/in/harshitarvindbarde/)
 
 ---
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshitarvindbarde&theme=onedark&row=2&column=4" alt="Trophies" />
-</p>
+
 
 
 ## 🚀 About Me
@@ -26,6 +23,11 @@ I'm a passionate Data Analyst and Data Engineer with expertise in building scala
 - **Microservices**: Java Spring Boot
 - **Web Development**: Flask
 - **Others**: GraphQL, API Development, Docker, CI/CD
+
+🏹 AI & ML       ▰▰▰▰▰▰▰▰▱▱ 80%  
+⚔️ Full Stack    ▰▰▰▰▰▰▰▰▰▱ 90%  
+🔮 Cloud Infra   ▰▰▰▰▰▰▰▰▱▱ 75%  
+
 
 ### 🚀 Professional Experiences:
 
