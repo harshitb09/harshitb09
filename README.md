@@ -1,8 +1,7 @@
 
 ## 👋 Hi, I'm Harshit Arvind Barde!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77A20&width=435&lines=Software+Engineer;AI+%7C+Data+%7C+Cloud+Enthusiast;Building+Scalable+Tech)](https://git.io/typing-svg)
-
+A [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77A20&width=435&lines=Software+Engineer;AI+%7C+Data+%7C+Cloud+Enthusiast;Building+Scalable+Tech)](https://git.io/typing-svg)
 ### 📫 Connect with me:
 - **Email**: [bardeharshit09@gmail.com](mailto:bardeharshit09@gmail.com)
 - **LinkedIn**: [Harshit Barde](https://www.linkedin.com/in/harshitarvindbarde/)
