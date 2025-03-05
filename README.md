@@ -80,7 +80,9 @@ I'm a passionate Data Analyst and Data Engineer with expertise in building scala
 
 
 ---
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
 
 
 > "In the era of AI, it's not just about coding – it's about creating intelligence that enhances human potential." 🤖✨
