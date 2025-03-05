@@ -69,14 +69,14 @@ I'm a passionate Data Analyst and Data Engineer with expertise in building scala
 You can copy this markdown text into your GitHub profile README (`README.md` in your GitHub username repository) to create a polished and professional profile.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sanket-zanwar/">
+  <a href="(https://www.linkedin.com/in/harshitarvindbarde/)">
     <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title="LinkedIn"/>
   </a>
-  <a href="mailto:sanketz1128@gmail.com">
+  <a href="mailto:bardeharshit09@gmail.com">
     <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title="Email"/>
   </a>
-  <a href="https://twitter.com/SanketSZ">
-    <img src="https://img.icons8.com/bubbles/50/000000/twitter.png" title="Twitter"/>
+  <a href="(https://medium.com/@vacationer)">
+    <img src="(https://miro.medium.com/v2/resize:fit:4800/format:webp/1*1qt_2L7O2M5igK6NZDRdOg.jpeg)" title="Twitter"/>
   </a>
 </div>
 
