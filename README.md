@@ -67,6 +67,23 @@ I'm a passionate Data Analyst and Data Engineer with expertise in building scala
 ---
 
 You can copy this markdown text into your GitHub profile README (`README.md` in your GitHub username repository) to create a polished and professional profile.
-## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/harshitb09/harshitb09/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <a href="https://www.linkedin.com/in/sanket-zanwar/">
+    <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title="LinkedIn"/>
+  </a>
+  <a href="mailto:sanketz1128@gmail.com">
+    <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title="Email"/>
+  </a>
+  <a href="https://twitter.com/SanketSZ">
+    <img src="https://img.icons8.com/bubbles/50/000000/twitter.png" title="Twitter"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
+
+> "In the era of AI, it's not just about coding – it's about creating intelligence that enhances human potential." 🤖✨
