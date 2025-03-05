@@ -70,15 +70,16 @@ You can copy this markdown text into your GitHub profile README (`README.md` in 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/harshitarvindbarde/">
-    <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title="LinkedIn" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:bardeharshit09@gmail.com">
-    <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title="Email" alt="Email"/>
+    <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title="Email" alt="Email" width="40" height="40"/>
   </a>
   <a href="https://medium.com/@vacationer">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968873.png" title="Medium" alt="Medium"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968873.png" title="Medium" alt="Medium" width="40" height="40"/>
   </a>
 </div>
+
 
 
 ---
