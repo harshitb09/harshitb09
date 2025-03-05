@@ -1,0 +1,36 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+**Step 4:**  
+- Commit and push this workflow file.
+- Ensure GitHub Actions are enabled.
+
+**Step 4:**  
+- After a few minutes, the GitHub Action will automatically run and generate the animated contribution snake.
+- Now your GitHub profile will showcase your contributions as an animated snake, dynamically updated daily!
+
+### Final Result:
+- Your profile README will resemble: [https://github.com/sanket1105](https://github.com/sanket1105)
+
+Let me know if you need any help with a specific step!
