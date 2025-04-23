@@ -5,6 +5,7 @@
 ### 📫 Connect with me:
 - **Email**: [bardeharshit09@gmail.com](mailto:bardeharshit09@gmail.com)
 - **LinkedIn**: [Harshit Barde](https://www.linkedin.com/in/harshitarvindbarde/)
+- **Portfolio**: [Personal Portfolio](https://harshitb09.github.io/harshitportfolio/)
 
 ---
 
